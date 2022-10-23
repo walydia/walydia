@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walydia
-- 👀 I’m interested in Analyzing Data
-- 🌱 I’m currently learning programming Skills
+- 👀 I’m interested in Analyzing Data, and using Python, VBA, to facilitate my work with excel.
+- 🌱 I’m working at Sonatel Senegal as a Data Analyst
 - 💞️ I’m looking to collaborate on research in AI
 - 📫 How to reach me BY EMAIL: mamadou.w.d.manga@aims-senegal.org
 
